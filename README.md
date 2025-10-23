@@ -13,7 +13,7 @@ I concentrate on producing "optimized C/Java programs", developing "*innovative 
 3. **Tools & Platforms**
 -> VS code | Intelij | GitHub | linux | Postman | Windows
 
-   what I'm learning Next
+   what I'm learning Next,
    1.**Advanced c++(STL,Templates,Binary Trees)**
    2.**Web Development (ReactJS,nodeJS)**
    3.**System Programming and Embedded Concepts**
